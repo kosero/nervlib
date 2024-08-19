@@ -1,0 +1,1 @@
+from .brainfuck import brainfuck
